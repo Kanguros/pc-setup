@@ -67,9 +67,3 @@ Full command, as admin:
 runas /user:administrator "Net stop com.docker.service"
 runas /user:administrator "Net start com.docker.service"
 ```
-
-### PowerShell
-
-1. Install _PowerShell version 7+_
-
-#### Prompt
